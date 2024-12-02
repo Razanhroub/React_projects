@@ -1,0 +1,18 @@
+.un-ordered-list{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.nav-div{
+    background-color: rgb(75, 157, 225);
+    color: black;
+}
+.un-ordered-list li{
+    background-color:rgb(75, 157, 225) ;
+    border: none;
+    list-style: none ;
+    color: black ;
+}
+a {
+    text-decoration: none;
+}
